@@ -1,0 +1,28 @@
+{
+  "books": [
+    {
+      "title": "s",
+      "author": "s",
+      "isPublished": true,
+      "id": 3
+    },
+    {
+      "title": "b",
+      "author": "b",
+      "isPublished": false,
+      "id": 4
+    },
+    {
+      "title": "s",
+      "author": "s",
+      "isPublished": false,
+      "id": 5
+    },
+    {
+      "title": "s",
+      "author": "s",
+      "isPublished": "on",
+      "id": 6
+    }
+  ]
+}
